@@ -1,13 +1,19 @@
-# Blackjack
+# Code-Along 6 + 7 - React
 
-Recording: https://bloomtech-1.wistia.com/medias/zrc4xxl8m3
+## Requirements
 
-## Setup
-1. Clone the project
-2. cd into the directory
-3. run `open index.html`
+- Node >= 16.x (prefer current LTS version)
+- NPM >= 8.x (upgrade executing `npm i -g npm`)
+- Chrome >= 103.x, Firefox >= 101.x
 
-Since there aren't any external dependencies (for now...) there is no installation process. 
+❗ Other browser/Node/NPM configurations might work but haven't been tested.
 
-Tested on Node v 14.19.0->LTS.
+### Nice to Haves
 
+- React Devtools Chrome / Firefox extensions.
+
+## Set Up
+
+1. Clone repo and execute `npm install` to install deps.
+2. Launch the project by executing `npm run start`.
+3. Visit your app by navigating Chrome/Firefox to `http://localhost:3000`.
