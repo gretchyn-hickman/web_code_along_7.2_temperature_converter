@@ -6,6 +6,9 @@ function WeatherDisplay(props) {
 					      ? "the best instructor!" 
 					      : "...at least you're not the worst!"}
       </p>
+      <img src={`http://openweathermap.org/img/wn/${props.openWeather.icon}@2x.png`} alt="Weather" />
+      <h2>{props.openWeather.cityName}</h2>
+      <p>{props.openWeather.cityTemp}</p>
     </>
   )
 }
