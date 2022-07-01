@@ -1,4 +1,4 @@
-# Code-Along 6 - React
+# Code-Along 6.1 - React
 
 ## Requirements
 
